@@ -95,3 +95,4 @@ C:\Users\alrai\doctor-appointment\obj\Debug\net10.0\refint\doctor-appointment.dl
 C:\Users\alrai\doctor-appointment\obj\Debug\net10.0\doctor-appointment.pdb
 C:\Users\alrai\doctor-appointment\obj\Debug\net10.0\doctor-appointment.genruntimeconfig.cache
 C:\Users\alrai\doctor-appointment\obj\Debug\net10.0\ref\doctor-appointment.dll
+C:\Users\alrai\doctor-appointment\obj\Debug\net10.0\doctor-appointment.sourcelink.json
